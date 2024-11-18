@@ -1,0 +1,7 @@
+year, area, Rainfall (mm), Pesticides (kg), Temperature (°C), yield
+2016, Region A,	500, 100, 25, 2000
+2017, Region A,	480, 110, 24, 2050
+2018, Region A,	550, 90, 26, 1980
+2016, Region B,	600, 120, 24, 2200
+2017, Region B,	580, 115, 23, 2250
+2018, Region B,	570, 105, 25, 2150
